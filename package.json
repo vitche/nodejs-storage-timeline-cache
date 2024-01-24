@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-storage-timeline-cache",
+  "version": "1.0.0",
+  "description": "Node.js Storage.Timeline Cache",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Vitche Research Team Developer",
+  "license": "LGPL",
+  "dependencies": {
+    "nodejs-storage-timeline": "git+https://github.com/vitche/nodejs-storage-timeline.git"
+  }
+}
